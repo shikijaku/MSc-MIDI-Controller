@@ -1,0 +1,2 @@
+# MSc-MIDI-Controller
+This GitHub repository contains my work at Staffordshire University as a master engineering student in robotics &amp; smart technologies. This project was aimed to design and build a MIDI controller from scratch and implementing it with Ableton Live 10.
